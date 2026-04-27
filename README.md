@@ -1,1 +1,1 @@
-# BridgeLabz-Training-2Y-DSA
+# Bridgelabz-Training-2Y-DSA
